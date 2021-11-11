@@ -1,0 +1,194 @@
+random
+
+20
+best parameters: {'alpha': 7, 'colsample_bytree': 0.6759289191947714, 'learning_rate': 0.1716766437045232, 'max_depth': 3, 'n_estimators': 81}
+RMSE_train: 21.671158848825467
+RMSE_test: 60.05558945370956
+train score: 0.9996919379008058
+test score: 0.9977258503713773
+
+40
+best parameters: {'alpha': 9, 'colsample_bytree': 0.5966346332199329, 'learning_rate': 0.11681254674941602, 'max_depth': 3, 'n_estimators': 175}
+RMSE_train: 16.384914844103854
+RMSE_test: 53.30264822402406
+train score: 0.9998238987751554
+test score: 0.9982085291704874
+
+60
+best parameters: {'alpha': 9, 'colsample_bytree': 0.5966346332199329, 'learning_rate': 0.11681254674941602, 'max_depth': 3, 'n_estimators': 175}
+RMSE_train: 16.384914844103854
+RMSE_test: 53.30264822402406
+train score: 0.9998238987751554
+test score: 0.9982085291704874
+
+80
+best parameters: {'alpha': 6, 'colsample_bytree': 0.4317261455166558, 'learning_rate': 0.16845013584279947, 'max_depth': 4, 'n_estimators': 198}
+RMSE_train: 5.602268548572958
+RMSE_test: 58.13968965317432
+train score: 0.9999794125837332
+test score: 0.9978686361948852
+
+100
+best parameters: {'alpha': 6, 'colsample_bytree': 0.4317261455166558, 'learning_rate': 0.16845013584279947, 'max_depth': 4, 'n_estimators': 198}
+RMSE_train: 5.602268548572958
+RMSE_test: 58.13968965317432
+train score: 0.9999794125837332
+test score: 0.9978686361948852
+
+200
+best parameters: {'alpha': 6, 'colsample_bytree': 0.4317261455166558, 'learning_rate': 0.16845013584279947, 'max_depth': 4, 'n_estimators': 198}
+RMSE_train: 5.602268548572958
+RMSE_test: 58.13968965317432
+train score: 0.9999794125837332
+test score: 0.9978686361948852
+
+300
+best parameters: {'alpha': 6, 'colsample_bytree': 0.4317261455166558, 'learning_rate': 0.16845013584279947, 'max_depth': 4, 'n_estimators': 198}
+RMSE_train: 5.602268548572958
+RMSE_test: 58.13968965317432
+train score: 0.9999794125837332
+test score: 0.9978686361948852
+
+400
+best parameters: {'alpha': 6, 'colsample_bytree': 0.4317261455166558, 'learning_rate': 0.16845013584279947, 'max_depth': 4, 'n_estimators': 198}
+RMSE_train: 5.602268548572958
+RMSE_test: 58.13968965317432
+train score: 0.9999794125837332
+test score: 0.9978686361948852
+
+500
+best parameters: {'alpha': 6, 'colsample_bytree': 0.4317261455166558, 'learning_rate': 0.16845013584279947, 'max_depth': 4, 'n_estimators': 198}
+RMSE_train: 5.602268548572958
+RMSE_test: 58.13968965317432
+train score: 0.9999794125837332
+test score: 0.9978686361948852
+
+sobol
+
+20
+best parameters: {'learning_rate': 0.19375, 'colsample_bytree': 0.38125, 'max_depth': 4, 'alpha': 7, 'n_estimators': 162}
+RMSE_train: 6.417500804308682
+RMSE_test: 62.76783722022983
+train score: 0.999972984944569
+test score: 0.9975158003462514
+
+40
+best parameters: {'learning_rate': 0.1546875, 'colsample_bytree': 0.7328125, 'max_depth': 3, 'alpha': 7, 'n_estimators': 153}
+RMSE_train: 16.537802311317154
+RMSE_test: 55.3104520343195
+train score: 0.9998205970451509
+test score: 0.9980710250690513
+
+60
+best parameters: {'learning_rate': 0.1546875, 'colsample_bytree': 0.7328125, 'max_depth': 3, 'alpha': 7, 'n_estimators': 153}
+RMSE_train: 16.537802311317154
+RMSE_test: 55.3104520343195
+train score: 0.9998205970451509
+test score: 0.9980710250690513
+
+80
+best parameters: {'learning_rate': 0.1546875, 'colsample_bytree': 0.7328125, 'max_depth': 3, 'alpha': 7, 'n_estimators': 153}
+RMSE_train: 16.537802311317154
+RMSE_test: 55.3104520343195
+train score: 0.9998205970451509
+test score: 0.9980710250690513
+
+100
+best parameters: {'learning_rate': 0.1546875, 'colsample_bytree': 0.7328125, 'max_depth': 3, 'alpha': 7, 'n_estimators': 153}
+RMSE_train: 16.537802311317154
+RMSE_test: 55.3104520343195
+train score: 0.9998205970451509
+test score: 0.9980710250690513
+
+200
+best parameters: {'learning_rate': 0.113671875, 'colsample_bytree': 0.637890625, 'max_depth': 3, 'alpha': 3, 'n_estimators': 196}
+RMSE_train: 15.53966685208687
+RMSE_test: 54.30216643385884
+train score: 0.9998415991866412
+test score: 0.9981407127937982
+
+300
+best parameters: {'learning_rate': 0.117578125, 'colsample_bytree': 0.5183593750000001, 'max_depth': 3, 'alpha': 6, 'n_estimators': 241}
+RMSE_train: 13.65881216444451
+RMSE_test: 54.847085363824824
+train score: 0.9998776229824589
+test score: 0.9981032098960253
+
+400
+best parameters: {'learning_rate': 0.117578125, 'colsample_bytree': 0.5183593750000001, 'max_depth': 3, 'alpha': 6, 'n_estimators': 241}
+RMSE_train: 13.65881216444451
+RMSE_test: 54.847085363824824
+train score: 0.9998776229824589
+test score: 0.9981032098960253
+
+500
+best parameters: {'learning_rate': 0.117578125, 'colsample_bytree': 0.5183593750000001, 'max_depth': 3, 'alpha': 6, 'n_estimators': 241}
+RMSE_train: 13.65881216444451
+RMSE_test: 54.847085363824824
+train score: 0.9998776229824589
+test score: 0.9981032098960253
+
+Halton
+
+20
+best parameters: {'learning_rate': 0.115625, 'colsample_bytree': 0.6333333333333333, 'max_depth': 4, 'alpha': 3, 'n_estimators': 142}
+RMSE_train: 10.706813047928678
+RMSE_test: 55.78397561135617
+train score: 0.9999248040520734
+test score: 0.9980378550247611
+
+40
+best parameters: {'learning_rate': 0.115625, 'colsample_bytree': 0.6333333333333333, 'max_depth': 4, 'alpha': 3, 'n_estimators': 142}
+RMSE_train: 10.706813047928678
+RMSE_test: 55.78397561135617
+train score: 0.9999248040520734
+test score: 0.9980378550247611
+
+60
+best parameters: {'learning_rate': 0.1390625, 'colsample_bytree': 0.5444444444444444, 'max_depth': 3, 'alpha': 8, 'n_estimators': 182}
+RMSE_train: 15.072459327747035
+RMSE_test: 55.44259087169345
+train score: 0.9998509807955089
+test score: 0.9980617972660085
+
+80
+best parameters: {'learning_rate': 0.1390625, 'colsample_bytree': 0.5444444444444444, 'max_depth': 3, 'alpha': 8, 'n_estimators': 182}
+RMSE_train: 15.072459327747035
+RMSE_test: 55.44259087169345
+train score: 0.9998509807955089
+test score: 0.9980617972660085
+
+100
+best parameters: {'learning_rate': 0.1390625, 'colsample_bytree': 0.5444444444444444, 'max_depth': 3, 'alpha': 8, 'n_estimators': 182}
+RMSE_train: 15.072459327747035
+RMSE_test: 55.44259087169345
+train score: 0.9998509807955089
+test score: 0.9980617972660085
+
+200
+best parameters: {'learning_rate': 0.1390625, 'colsample_bytree': 0.5444444444444444, 'max_depth': 3, 'alpha': 8, 'n_estimators': 182}
+RMSE_train: 15.072459327747035
+RMSE_test: 55.44259087169345
+train score: 0.9998509807955089
+test score: 0.9980617972660085
+
+300
+best parameters: {'learning_rate': 0.1390625, 'colsample_bytree': 0.5444444444444444, 'max_depth': 3, 'alpha': 8, 'n_estimators': 182}
+RMSE_train: 15.072459327747035
+RMSE_test: 55.44259087169345
+train score: 0.9998509807955089
+test score: 0.9980617972660085
+
+400
+best parameters: {'learning_rate': 0.1390625, 'colsample_bytree': 0.5444444444444444, 'max_depth': 3, 'alpha': 8, 'n_estimators': 182}
+RMSE_train: 15.072459327747035
+RMSE_test: 55.44259087169345
+train score: 0.9998509807955089
+test score: 0.9980617972660085
+
+500
+best parameters: {'learning_rate': 0.1390625, 'colsample_bytree': 0.5444444444444444, 'max_depth': 3, 'alpha': 8, 'n_estimators': 182}
+RMSE_train: 15.072459327747035
+RMSE_test: 55.44259087169345
+train score: 0.9998509807955089
+test score: 0.9980617972660085

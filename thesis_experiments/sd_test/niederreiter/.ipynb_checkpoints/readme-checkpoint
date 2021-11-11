@@ -1,0 +1,3 @@
+GFARIT must be run first, to set up a tables of addition and multiplication.
+GFPLYS must be run second, to set up a table of irreducible polynomials.
+Once GFARIT and GFPLYS have been run to set up the tables, the NIEDERREITER routines can be used.
