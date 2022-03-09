@@ -11,12 +11,12 @@ lib = WinDLL('./niederreiter_lib.dll')
 
 
 def main():
-    dim_num = c_int(2)
-    n = c_int(10)
+    dim_num = c_int(3)
+    n = c_int(200)
     base = c_int(2)
     seed = pointer(c_int(2))
     skip = c_int(0)
-    r = (c_double * 20)()
+    r = (c_double * 600)()
     # output_filename = pointer(c_wchar_p("sequence"))
     output_filename = c_wchar_p("sequence.txt")
     

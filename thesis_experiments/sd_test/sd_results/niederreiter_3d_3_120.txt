@@ -1,0 +1,60 @@
+13 February 2022 04:56:10 AM
+
+STAR_DISCREPANCY:
+  C++ version
+
+  Compiled on Aug 18 2021 at 11:07:14.
+
+  A program to estimate the discrepancy
+  of a set of N points in M dimensions.
+
+FILE_USAGE:
+  This program requires an input file that defines
+  the point set.
+  We assume that the points are S-dimensional, and 
+  that there are N_MAX of them.
+
+  We also require that the points be in the unit hypercube.
+
+  Then the input file contains N_MAX lines or records.
+  Each record contains the S coordinate values of one point.
+
+  Comment lines begin with the character "#",
+  and may occur anywhere in the file.
+
+  At runtime, the user specifies N, the number of points
+  to be read from the file, which must be less than or
+  equal to N_MAX.
+
+  Here is an example of a file containing N_MAX = 5
+  points in S = 3 dimensions:
+
+#  input_3x5.txt
+#
+#  Suitable for input to DISCRBOUND.
+#  Spatial dimension = 3
+#  Number of points = 5
+#
+  0.00  0.20  0.90
+  0.80  0.40  0.30
+  0.20  1.00  0.50
+  0.40  0.60  0.10
+  0.60  0.80  0.70
+
+
+  S = 3
+  Epsilon = 0.001
+  N = 120
+
+  Estimate of Discrepancy D_n^*(x):
+
+   Lower         Upper
+   bound         bound
+------------  ------------
+
+    0.071369     0.0721232
+
+STAR_DISCREPANCY:
+  Normal end of execution.
+
+13 February 2022 05:07:00 AM

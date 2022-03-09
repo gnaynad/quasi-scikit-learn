@@ -1,4 +1,4 @@
-#  niederreiter_2d.txt
+#  niederreiter_2d_2.txt
 #  created by NIEDERREITER.C.
 #
 #  Spatial dimension DIM_NUM = 2
